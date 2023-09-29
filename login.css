@@ -1,0 +1,21 @@
+body {
+  background-color:#333;
+  background-size: cover;
+  height: 50px;
+  width: auto
+}
+
+.container {
+  padding-left: 46%;
+  padding-top: 22%;
+}
+
+.button-18 {
+  background-color: #40f712;
+  background-size: cover;
+  border: 0;
+  border-radius: 100px;
+  box-sizing: border-box;
+  color: #ffffff;
+ 
+}

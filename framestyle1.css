@@ -1,0 +1,22 @@
+html, body {
+	background-color: rgb(194, 135, 26);
+	height: 100%;
+	margin: 0;
+}
+.logo {
+	position: fixed;
+}
+ul{
+    margin-left: 0%;
+}
+li{
+    list-style: none;
+    display: inline-block;
+	position: relative;
+	top: 0;
+	left: 75%;
+}
+.btn{
+	color: aliceblue;
+	margin: 30px;
+}
